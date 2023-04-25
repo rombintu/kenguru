@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "kenguru"
-version = "0.1.2"
+version = "0.1.3"
 description = "English language learning program"
 authors = ["Nickolsky Roman <romb.intu@gmail.com>"]
 readme = "README.md"
